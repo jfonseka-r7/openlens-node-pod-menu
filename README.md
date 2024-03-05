@@ -15,7 +15,7 @@ After a few moments, the plugin should appear in the list of installed extension
 
 # How to build this extension locally
 
-You must use Node Version Manager (NVM) to down the supported version of Node on your machine.
+You must use Node Version Manager (NVM) to download the correct version of Node (16.14.2) on your machine.
 
 Clone the repo and from the root run the following:
 
