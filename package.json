@@ -1,12 +1,7 @@
 {
-  "name": "openlens-node-pod-menu",
+  "name": "@jfonseka/node-pod-menu",
   "version": "0.0.1",
   "description": "Node and pod menus for OpenLens",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alebcay/openlens-node-pod-menu.git",
-    "directory": "."
-  },
   "renderer": "dist/renderer.js",
   "engines": {
     "node": "^16.14.2",
@@ -28,7 +23,7 @@
     "@typescript-eslint/eslint-plugin": "^6.0.0",
     "eslint": "^8.31.0",
     "ts-loader": "^9.4.2",
-    "webpack-cli": "^5.0.1"
+    "webpack-cli": "^5.1.4"
   },
   "license": "MIT",
   "keywords": [
